@@ -26,9 +26,9 @@ I am an AI Data Annotator and AI Evaluator with experience in AI training, promp
 - Generative AI applications
 
 ## Connect With Me
-- Google Scholar: Add your Scholar profile link
-- LinkedIn: Add your LinkedIn profile link
-- ORCID: Add your ORCID profile link
+- Google Scholar: https://scholar.google.com/citations?user=ljY20M4AAAAJ&hl=en
+- LinkedIn: https://www.linkedin.com/in/satendra-kushwaha-016005160/
+- ORCID: https://orcid.org/0009-0008-5680-7512
 
 ## Goals
 Continuously learning and improving skills in Artificial Intelligence, Machine Learning, NLP, and AI evaluation.
