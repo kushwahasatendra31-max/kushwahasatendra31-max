@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Satendra Kushwaha
 
-<!--
-**kushwahasatendra31-max/kushwahasatendra31-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an AI Data Annotator and AI Evaluator with experience in AI training, prompt evaluation, content assessment, and language-related projects.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing (NLP)
+- Generative AI
+- Large Language Models (LLMs)
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- AI Evaluation
+- Data Annotation
+- Prompt Engineering
+- Content Analysis
+- Python
+- Machine Learning Fundamentals
+
+## Current Focus
+- AI model evaluation
+- Prompt quality assessment
+- NLP tasks
+- Generative AI applications
+
+## Connect With Me
+- Google Scholar: Add your Scholar profile link
+- LinkedIn: Add your LinkedIn profile link
+- ORCID: Add your ORCID profile link
+
+## Goals
+Continuously learning and improving skills in Artificial Intelligence, Machine Learning, NLP, and AI evaluation.
